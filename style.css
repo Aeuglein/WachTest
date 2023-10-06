@@ -1,0 +1,16 @@
+.picture1{
+    background-image: url(wach1_unvis.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    max-height: fit-content;
+    min-height: 100vh}
+
+.picture2{
+    
+    transition: background-image 2s;
+    transition-timing-function: ease;
+    background-image: url(wach1_vis.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    max-height: fit-content;
+    min-height: 100vh}
